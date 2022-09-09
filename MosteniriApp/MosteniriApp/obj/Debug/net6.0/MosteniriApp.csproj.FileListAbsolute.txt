@@ -1,0 +1,15 @@
+C:\Users\Costi\source\repos\MosteniriApp\MosteniriApp\bin\Debug\net6.0\MosteniriApp.exe
+C:\Users\Costi\source\repos\MosteniriApp\MosteniriApp\bin\Debug\net6.0\MosteniriApp.deps.json
+C:\Users\Costi\source\repos\MosteniriApp\MosteniriApp\bin\Debug\net6.0\MosteniriApp.runtimeconfig.json
+C:\Users\Costi\source\repos\MosteniriApp\MosteniriApp\bin\Debug\net6.0\MosteniriApp.dll
+C:\Users\Costi\source\repos\MosteniriApp\MosteniriApp\bin\Debug\net6.0\ref\MosteniriApp.dll
+C:\Users\Costi\source\repos\MosteniriApp\MosteniriApp\bin\Debug\net6.0\MosteniriApp.pdb
+C:\Users\Costi\source\repos\MosteniriApp\MosteniriApp\obj\Debug\net6.0\MosteniriApp.csproj.AssemblyReference.cache
+C:\Users\Costi\source\repos\MosteniriApp\MosteniriApp\obj\Debug\net6.0\MosteniriApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Costi\source\repos\MosteniriApp\MosteniriApp\obj\Debug\net6.0\MosteniriApp.AssemblyInfoInputs.cache
+C:\Users\Costi\source\repos\MosteniriApp\MosteniriApp\obj\Debug\net6.0\MosteniriApp.AssemblyInfo.cs
+C:\Users\Costi\source\repos\MosteniriApp\MosteniriApp\obj\Debug\net6.0\MosteniriApp.csproj.CoreCompileInputs.cache
+C:\Users\Costi\source\repos\MosteniriApp\MosteniriApp\obj\Debug\net6.0\MosteniriApp.dll
+C:\Users\Costi\source\repos\MosteniriApp\MosteniriApp\obj\Debug\net6.0\ref\MosteniriApp.dll
+C:\Users\Costi\source\repos\MosteniriApp\MosteniriApp\obj\Debug\net6.0\MosteniriApp.pdb
+C:\Users\Costi\source\repos\MosteniriApp\MosteniriApp\obj\Debug\net6.0\MosteniriApp.genruntimeconfig.cache
